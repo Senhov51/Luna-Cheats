@@ -10,3 +10,6 @@ Luna-cheat est un executor roblox permettant d'executer des scripts de tiches su
 -AIMBOT (Aim Target) - nous avons implémenté le meilleur aimbot (visée automatique) avec de nombreuses options de personnalisation. Cela permet à chacun de vos tirs d'être le dernier pour votre adversaire. Vous pouvez choisir la cible : il peut s'agir d'une partie spécifique du corps ou simplement d'une visée précise.
 
 -Divers (Outils) - notre triche dispose également d'un certain nombre d'outils utiles. Par exemple, il existe une fonction qui supprime le recul de l'arme et la rend plus rapide à recharger. Il est également possible de réduire le ping, d'augmenter les FPS en supprimant les objets inutiles de la scène. Il existe d'autres fonctionnalités utiles.
+
+
+
